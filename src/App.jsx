@@ -10,33 +10,28 @@ export default function App() {
     name: "Oni Studio",
     category: "Tatuajes",
     image: oniStudio,
-<<<<<<< HEAD
+
     link: "https://oni-studio.vercel.app/",
-=======
-    link: "https://oniportfolio.netlify.app/",
->>>>>>> 7803afab64893795663ee595d76ac4d52cfd528b
+
+   
   },
 
   {
     name: "Sweet Whim",
     category: "Repostería",
     image: sweetWhim,
-<<<<<<< HEAD
-     link: "https://sweet-whim.vercel.app/",
-=======
      link: "https://sweetwhim-site.netlify.app/",
->>>>>>> 7803afab64893795663ee595d76ac4d52cfd528b
+
   },
 
   {
     name: "Zana Vida",
     category: "Wellness Store",
     image: zanaVida,
-<<<<<<< HEAD
+
     link: "https://zana-vida.vercel.app/",
-=======
-    link: "https://zanavida-site.netlify.app/",
->>>>>>> 7803afab64893795663ee595d76ac4d52cfd528b
+
+
   },
 ];
 

@@ -1,9 +1,6 @@
-<<<<<<< HEAD
+
 @import "tailwindcss";
-html {
-  scroll-behavior: smooth;
-=======
-@import "tailwindcss";
+
 html {
   scroll-behavior: smooth;
 >>>>>>> 7803afab64893795663ee595d76ac4d52cfd528b
